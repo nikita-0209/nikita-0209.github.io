@@ -1,0 +1,7 @@
+- name: Tensorflow
+  percentage: 70
+  color: info
+
+- name: PyTorch
+  percentage: 50
+  color: success

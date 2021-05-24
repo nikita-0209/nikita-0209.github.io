@@ -1,0 +1,7 @@
+- name: Computer Vision
+  percentage: 70
+  color: danger
+
+- name: Natural Language Processing
+  percentage: 50
+  color: info
