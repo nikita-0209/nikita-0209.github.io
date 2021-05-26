@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : nikita saxena
 description         : >-
-                      I've always loved the idea
-                      of not being what people
-                      expect me to be.
+                      Prioritizing my passions keeps me sane.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
