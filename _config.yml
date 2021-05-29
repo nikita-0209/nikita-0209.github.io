@@ -71,7 +71,7 @@ include:
 analytics:
   enabled: false                                        # Set true to enable analytics
   google:
-    tracking_id: G-CMRDJ5CVV9 #your-google-tracking-id
+    tracking_id: G-YMHDX9CFVE #your-google-tracking-id
 
 
 ### Defaults for collections ###
