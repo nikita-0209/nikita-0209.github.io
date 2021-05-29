@@ -86,6 +86,27 @@
 
 <p>We implemented a Seq-to-Seq Model (Encoder-Decoder-Attention Mechanism) that could translate short sentences in Sinhalese, Persian, Chinese (simplified), and Indonesian to English and vice versa.</p>
 
+<p><br /></p>
+
+<h3 id="technical-details">Technical Details</h3>
+<ul>
+<li>Language: Python</li>
+<li>API: Tensorflow</li>
+<li>Model Architecture:
+<ul><li>Encoder: Single Layer Gated Recurrent Unit (GRU)</li>
+<li>Attention: <i>bahdanau</i> Style</li>
+<li>Decoder: Single Layer GRU</li>
+<li>Optimiser: Adam</li>
+<li>Loss Function: Sparse Categorical Entropy</li></ul> </li>
+<li> Word Embeddings:
+<ul><li> Library: Fasttext </li>
+<li> Dimension: 300 </li></ul></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="results">Results</h3>
+
 <p>Here is a set of randomly chosen sentences:</p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># English to Indonesian

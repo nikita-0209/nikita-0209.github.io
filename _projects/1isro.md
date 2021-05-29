@@ -6,6 +6,7 @@ description: High-resolution measurements of sea surface temperature (SST) are c
 ---
 
 # Super Resolution CNN for Oceanographic Data
+##### Supervisor: <a href = "https://scholar.google.com/citations?user=NMTJ718AAAAJ&hl=en"> Dr. Neeraj Agarwal</a>
 
 As the name quite evidently conveys, Sea Surface Temperature is the measurement of the temperature of the sea surface. Oh, by surface, I don't mean legit surface; in fact, it can extend to up to 10m beneath the actual <i>surface</i>!
 
@@ -31,6 +32,24 @@ In this project, I assessed the efficiency of Convolutional Neural Networks to r
 <!-- ![preview](/assets/img/isro2.jpeg) -->
 
 In an SST Field, each pixel gives the measurement of temperature at that location. So, it’s usually between a range of 20-40 degrees Celsius. Most of the state-of-the-art super-resolution networks have been trained on 255-bit image data. So, evaluating the same network for SST data (which has a lesser range), was one of the biggest challenges of this project.
+
+<br>
+
+### Technical Details
+<ul>
+<li>Language: Python</li>
+<li>Library: <a href="https://www.unidata.ucar.edu/software/netcdf/"> NetCDF</a></li>
+<li>API: Keras and Tensorflow</li>
+<li>Model Architecture:
+<ul><li>Layers : Convolutional Layers</li>
+<li>Optimiser: Adam</li>
+<li>Loss Function: Mean Squared Error</li>
+<li> Activation Function: ReLu </li>
+<li>Metric: Peak Signal to Noise Ratio </li> </ul> </li>
+<li>Dataset Size:
+<ul><li>Train: 1800 fields </li>
+<li>Test: 600 fields </li> </ul></li>
+</ul>
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/nikita-0209/downscale-sst" text="View Code" %}      

@@ -12,6 +12,27 @@ On the battlefield, a lot of communication happens through radio channels. Thoug
 
 We implemented a Seq-to-Seq Model (Encoder-Decoder-Attention Mechanism) that could translate short sentences in Sinhalese, Persian, Chinese (simplified), and Indonesian to English and vice versa.
 
+<br>
+
+### Technical Details
+<ul>
+<li>Language: Python</li>
+<li>API: Tensorflow</li>
+<li>Model Architecture:
+<ul><li>Encoder: Single Layer Gated Recurrent Unit (GRU)</li>
+<li>Attention: <i>bahdanau</i> Style</li>
+<li>Decoder: Single Layer GRU</li>
+<li>Optimiser: Adam</li>
+<li>Loss Function: Sparse Categorical Entropy</li></ul> </li>
+<li> Word Embeddings:
+<ul><li> Library: Fasttext </li>
+<li> Dimension: 300 </li></ul></li>
+</ul>
+
+<br>
+
+### Results
+
 Here is a set of randomly chosen sentences:
 
 ```python

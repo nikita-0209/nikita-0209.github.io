@@ -10,4 +10,12 @@ My supervisor <a href="https://www.prl.res.in/~kkmarhas/">Dr. Kuljeet Kaur Marha
 
 {% include elements/figure.html image="/assets/img/prl.jpg" caption="Photo by Josh Gordon on Unsplash" %}
 
-I carried out an extensive study on the parameters to be taken into consideration while simulating the galactic evolution. The aim of the simulation was to compare observational isotopic mass ratios (of transition elements like iron, cobalt) with theoretical results. I studied concepts like star formation rate, initial mass function, infall episodes and age-metallicity relation. I performed a comparative analysis of the stellar nucleosynthetic yields, infall rate formulations, etc. adopted by existing galactic chemical simulation approaches to select an optimum methodology for the given problem statement. My code was based on Python open-source galactic chemical evolution codes NuPyCEE and JINAPyCEE.
+I carried out an extensive study on the parameters to be taken into consideration while simulating the galactic evolution. The aim of the simulation was to compare observational isotopic mass ratios (of transition elements like iron, cobalt) with theoretical results. I studied concepts like star formation rate, initial mass function, infall episodes and age-metallicity relation. I performed a comparative analysis of the stellar nucleosynthetic yields, infall rate formulations, etc. adopted by existing galactic chemical simulation approaches to select an optimum methodology for the given problem statement.
+
+<br>
+
+### Technical Details
+<ul>
+<li> Language: Python</li>
+<li> Libraries: <a href="https://github.com/NuGrid/NuPyCEE">NuPyCEE</a> and <a href="https://github.com/becot85/JINAPyCEE"> JINAPyCEE</a> (open-source galactic chemical evolution codes)</li>
+</ul>
