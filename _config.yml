@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : nikita saxena
 description         : >-
-                      Prioritizing my passions keeps me sane.
+                      I am like the female version of Chandler with the OCD of Monica.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

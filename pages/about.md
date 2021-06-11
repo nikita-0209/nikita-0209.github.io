@@ -8,8 +8,11 @@ weight: 1
 # **About Me**
 
 Hey, there! I am **{{ site.author.name }}** <br>
-I am a passionate professional and strive for perfection. I appreciate constructive criticism. I am known for my dedication and meticulous nature. I have a knack for devising simple ways to crack seemingly complex problems.
-<!-- I am a tech enthusiast. I am a big fan of the royal family, chicken and not writing regularly. My hobbies change like moods. I love experimenting. No, not a cliche line, I really do!. I've tried my hand at product management, research, If you know how life works, mail me? -->
+So, let’s see, where do I start? What do I put in <i>the introduction</i> of my introduction?
+Guess I’ll just begin with the easiest part: my name is Nikita Saxena, and I just completed my junior year at BITS Pilani. Personality-wise, I’m an outgoing introvert. Oxymoron, huh? But trust me, it’s actually a thing! I am a tech enthusiast. I am a big fan of the royal family, chicken and not writing regularly. In my free time, I like to scroll through my LinkedIn feed and sleep!
+Oh and my birthday is on September 2 and I love surprise gifts! xD
+Now that you know a bit about me I would love to know more about you. So drop me an email, and let's connect!
+<!-- If you know how life works, mail me? -->
 
 <div class="row">
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
