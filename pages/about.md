@@ -8,9 +8,9 @@ weight: 1
 # **About Me**
 
 Hey, there! I am **{{ site.author.name }}** <br>
-So, let’s see, where do I start? What do I put in <i>the introduction</i> of my introduction?
-Guess I’ll just begin with the easiest part: my name is Nikita Saxena, and I just completed my junior year at BITS Pilani. Personality-wise, I’m an outgoing introvert. Oxymoron, huh? But trust me, it’s actually a thing! I am a tech enthusiast. I am a big fan of the royal family, chicken and not writing regularly. In my free time, I like to scroll through my LinkedIn feed and sleep!
-Oh and my birthday is on September 2 and I love surprise gifts! xD
+So, let’s see, where do I start? What do I put in <i>the introduction</i> of my introduction?  <br>
+Guess I’ll just begin with the easiest part: my name is Nikita Saxena, and I just completed my junior year at BITS Pilani. Personality-wise, I’m an outgoing introvert. Oxymoron, huh? But trust me, it’s actually a thing!  <br> I am a tech enthusiast. I am a big fan of the royal family, chicken and not writing regularly. In my free time, I like to scroll through my LinkedIn feed and sleep!  <br>
+Oh and my birthday is on September 2 and I love surprise gifts! xD  <br>
 Now that you know a bit about me I would love to know more about you. So drop me an email, and let's connect!
 <!-- If you know how life works, mail me? -->
 
