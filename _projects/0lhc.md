@@ -29,8 +29,8 @@ These linear representations are fed into machine learning models for binary cla
 <li>Models Experimented With: Logistic Regression, Linear Discriminant Analysis, Random Forest, XGBoost</li>
 <li>Loss Functions: Hinge Loss, Squared Hinge Loss, Mean Squared Error</li>
 <li>Dataset Size:
-<ul><li>Train: 90000 events </li>
-<li>Test: 10000 events </li> </ul></li>
+<ul><li>Train: 90000 jets </li>
+<li>Test: 10000 jets </li> </ul></li>
 </ul>
 
 <br>
