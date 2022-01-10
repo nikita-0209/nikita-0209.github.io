@@ -26,7 +26,7 @@ These linear representations are fed into machine learning models for binary cla
 <ul>
 <li>Language: Python</li>
 <li>Framework: Pytorch</li>
-<li>Models Experimented With: Logistic Regression, Linear Discriminant ANlaysis, Random Forest, XGBoost</li>
+<li>Models Experimented With: Logistic Regression, Linear Discriminant Analysis, Random Forest, XGBoost</li>
 <li>Loss Functions: Hinge Loss, Squared Hinge Loss, Mean Squared Error</li>
 <li>Dataset Size:
 <ul><li>Train: 90000 events </li>
