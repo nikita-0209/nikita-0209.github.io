@@ -10,7 +10,7 @@ description: I trained a transformer-encoder network with contrastive loss to ma
 <br>
 Our building blocks are atomic nuclei, which in turn comprise protons and neutrons, which are made up of quarks and gluons. This project aims to distinguish the quarks (signal) from the gluons (background).
 
-{% include elements/figure.html image="/assets/img/ucsd.jpg" caption="Large Hadron Collider" %}
+{% include elements/figure.html image="/assets/img/lhc.jpg" caption="Large Hadron Collider" %}
 
 When a collision takes place in the Large Hadron Collider, constituent particles get scattered. The set of scattered particles are called jets. Snapshots of jets are called jet images and have been conventionally used to classify between quark and gluon initiated jets.
 In this research work, we adopt an alternative technique. We train a transformer with contrastive loss to map particle jets to a representation space. Spherical position, particle type and transverse momentum  of the constituent particles are taken into consideration while obtaining the representation of jets.
