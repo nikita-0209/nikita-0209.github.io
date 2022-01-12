@@ -8,10 +8,13 @@ weight: 5
 # **Publications**
 <br>
 
+>Nikita Saxena, Vinti Agarwal
+**_"Learning to Detect: A Semi Supervised Multi-relational Graph Convolutional Network for Uncovering Key Actors on Hackforums."_**
+IEEE Conference on Big Data, Cyberspace, 2021 [forthcoming]
+
 >Nikita Saxena
 **_"Efficient Downscaling of Satellite Oceanographic Data With Convolutional Neural Networks."_**
-28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, Cyberspace, 2020"
-{% include elements/button.html link="https://dl.acm.org/doi/10.1145/3397536.3429335" text="DOI" %}
+28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, Cyberspace, 2020 {% include elements/button.html link="https://dl.acm.org/doi/10.1145/3397536.3429335" text="DOI" %}
 
 <br>
 >Gaurav Sharma, Tushar Goyal, Aditya Bhardwaj, Nikita Saxena, Jeet Yadav (Forthcoming)
