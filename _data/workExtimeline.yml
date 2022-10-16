@@ -2,11 +2,11 @@
 - title: Research Intern, MILA Quebec-AI Institute
   from: September 2022
   to: Present
-  description: <ul><li>Designing generative flow networks so as to jointly generate a material physics candidate as well as the fidelity (precision level
-                of the approximate estimation of ionic conductivity) of the oracle to evaluate the candidate.</li>
-              <li>I am working under <a href = "https://alexhernandezgarcia.github.io/"> Alex Hernandez-Garcia</a>, in <a href = "https://yoshuabengio.org/">Yoshua Bengio</a>'s group.</li></ul>
+  description: <ul><li>Designing generative flow networks so as to jointly generate DNA sequences as well as the fidelity (precision level
+                of the approximate estimation of energy of the sequence) of the oracle to evaluate the sequence.</li>
+              <li>I am working under <a href = "https://alexhernandezgarcia.github.io/">Alex Hernandez-Garcia</a>, in <a href = "https://yoshuabengio.org/">Yoshua Bengio</a>'s group.</li></ul>
 
-- title: Software Engineering Intern, Bloomberg Pune, India
+- title: Software Engineering Intern, Bloomberg India
   from: May 2022
   to: July 2022
   description: <ul><li>Designed a C++ infrastructure to provide clients with transparency on the corporate actions that have impacted their securities.</li>
