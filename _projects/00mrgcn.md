@@ -1,9 +1,8 @@
----
+<!-- ---
 name: Multi-Relational Graph Neural Network for Darkweb Actor Classification
 tools: [Tensorflow, Keras, GCN]
 image: /assets/img/mrgcn0.jpg
-description: I propose a semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity.
-patterns.
+description: I propose a semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.
 ---
 # name: Multi-Relational Graph Neural Network for Darkweb Actor Classification
 ##### Supervisor: <a href = "https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile"> Dr. Vinti Agarwal</a>
@@ -25,9 +24,6 @@ actors.
   To obtain ground truth labels for training data, we propose a hypothesis to calculate the scores for each user based on the quality and quantity of their involvement in the underground forum. 
   The proposed framework jointly embeds the users' and multi relational information to learn the nodes embeddings in the graph. 
   We demonstrate the effectiveness of the proposed model on a neo-nazi underground forum, IronMarch.
-
-
-<!-- ![preview](/assets/img/ucsd.jpg) -->
 
 <br>
 
@@ -60,4 +56,4 @@ We conducted an ablation study on the model
 
 <p class="text-center">
 {% include elements/button.html link="https://ieeexplore.ieee.org/document/9671446" text="View Paper" %}
-</p>
+</p> -->

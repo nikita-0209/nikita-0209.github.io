@@ -7,10 +7,10 @@ weight: 5
 
 # **Publications**
 <br>
-
+<!-- 
 >Nikita Saxena, Vinti Agarwal
 **_"Learning to Detect: A Semi Supervised Multi-relational Graph Convolutional Network for Uncovering Key Actors on Hackforums."_**
-IEEE Conference on Big Data, Cyberspace, 2021 {% include elements/button.html link="https://drive.google.com/file/d/1-cBqHxyJRVtevimRIAlHsKVC2dItbZF4/view" text="DOI" %}
+IEEE Conference on Big Data, Cyberspace, 2021 {% include elements/button.html link="https://drive.google.com/file/d/1-cBqHxyJRVtevimRIAlHsKVC2dItbZF4/view" text="DOI" %} -->
 
 >Nikita Saxena
 **_"Efficient Downscaling of Satellite Oceanographic Data With Convolutional Neural Networks."_**
