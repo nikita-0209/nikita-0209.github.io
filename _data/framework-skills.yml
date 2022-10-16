@@ -3,5 +3,5 @@
   color: info
 
 - name: PyTorch
-  percentage: 15
+  percentage: 35
   color: success

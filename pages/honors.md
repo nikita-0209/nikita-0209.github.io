@@ -32,7 +32,7 @@ IEEE Conference on Big Data, Cyberspace, 2021 {% include elements/button.html li
 | 2022       | MITACS Globalink Award                    | Mitacs Canada                          |
 | 2021       | DAAD WISE Scholarship                     | Deutscher Akademischer Austauschdienst |
 | 2021       | Charpak Lab Scholarship *(Rejected)*      | Campus France                          |
-| 2018-20    | BITS Pilani Merit Scholarship             | BITS Pilani                            |
+| 2018-22    | BITS Pilani Merit Scholarship             | BITS Pilani                            |
 | 2016       | UL Safer Roads, Safer India Youth Grantee | Youth Service America                  |
 
 <br> <br>
