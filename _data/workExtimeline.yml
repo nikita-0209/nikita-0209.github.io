@@ -4,7 +4,7 @@
   to: Present
   description: <ul><li>Designing generative flow networks so as to jointly generate a material physics candidate as well as the fidelity (precision level
                 of the approximate estimation of ionic conductivity) of the oracle to evaluate the candidate.</li>
-              <li>I am working under <a href = "https://alexhernandezgarcia.github.io/"> Alex Hernandez-Garcia </a>, in <a href = "https://yoshuabengio.org/">Yoshua Bengio</a>'s group.</li></ul>
+              <li>I am working under <a href = "https://alexhernandezgarcia.github.io/"> Alex Hernandez-Garcia</a>, in <a href = "https://yoshuabengio.org/">Yoshua Bengio</a>'s group.</li></ul>
 
 - title: Software Engineering Intern, Bloomberg Pune, India
   from: May 2022
@@ -16,7 +16,7 @@
 - title: Junior Investigator, Tufts University
   from: May 2021
   to: September 2021
-  description: <ul><li>Worked with the Tufts Neutrino Group, under <a href="https://as.tufts.edu/physics/people/faculty/wongjirad"> Dr. Taritree Wongjirad </a> on the MicroBoone experiment.</li>
+  description: <ul><li>Worked with the Tufts Neutrino Group, under <a href="https://as.tufts.edu/physics/people/faculty/wongjirad"> Dr. Taritree Wongjirad</a> on the MicroBoone experiment.</li>
               <li>Designed a generative network to simulate neutrino events conditioned on the particle’s momentum.</li>
               <li>I'm also a junior investigator at <a href = "https://iaifi.org/people.html"> IAIFI.</a> </li></ul>
 

@@ -4,7 +4,7 @@ tools: [Tensorflow, Keras, GCN]
 image: /assets/img/mrgcn0.jpg
 description: I propose a semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.
 ---
-# name: Multi-Relational Graph Neural Network for Darkweb Actor Classification
+# Multi-Relational Graph Neural Network for Darkweb Actor Classification
 ##### Supervisor: <a href = "https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile"> Dr. Vinti Agarwal</a>
 
 <br>
