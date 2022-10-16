@@ -10,7 +10,7 @@ weight: 5
 
 >Nikita Saxena, Vinti Agarwal
 **_"Learning to Detect: A Semi Supervised Multi-relational Graph Convolutional Network for Uncovering Key Actors on Hackforums."_**
-IEEE Conference on Big Data, Cyberspace, 2021 [forthcoming]
+IEEE Conference on Big Data, Cyberspace, 2021 {% include elements/button.html link="https://drive.google.com/file/d/1-cBqHxyJRVtevimRIAlHsKVC2dItbZF4/view" text="DOI" %}
 
 >Nikita Saxena
 **_"Efficient Downscaling of Satellite Oceanographic Data With Convolutional Neural Networks."_**
@@ -29,8 +29,9 @@ IEEE Conference on Big Data, Cyberspace, 2021 [forthcoming]
 
 | Year       | Scholarship                               |  Organization                          |
 |:----------:|:-----------------------------------------:|:--------------------------------------:|
+| 2022       | MITACS Globalink Award                    | Mitacs Canada                          |
 | 2021       | DAAD WISE Scholarship                     | Deutscher Akademischer Austauschdienst |
-| 2021       | Charpak Lab Scholarship                   | Campus France                          |
+| 2021       | Charpak Lab Scholarship *(Rejected)*      | Campus France                          |
 | 2018-20    | BITS Pilani Merit Scholarship             | BITS Pilani                            |
 | 2016       | UL Safer Roads, Safer India Youth Grantee | Youth Service America                  |
 

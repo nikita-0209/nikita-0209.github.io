@@ -1,12 +1,26 @@
-- title: Undergraduate Research Assistant, Tufts University
-  from: May 2021
+- title: Research Intern, MILA Quebec-AI Institute
+  from: September 2022
   to: Present
-  description: <ul><li>I'm currently a part of the Tufts Neutrino Group, working under <a href="https://as.tufts.edu/physics/people/faculty/wongjirad"> Dr. Taritree Wongjirad </a> on the MicroBoone experiment.</li>
-              <li>I'm designing a generative network to simulate neutrino events conditioned on the particle’s momentum.</li>
-              <li>The network is based on a vector-quantized variational autoencoder and an auto-regressive model.</li>
+  description: <ul><li>Designing generative flow networks so as to jointly generate a material physics candidate as well as the fidelity (precision level
+of the approximate estimation of ionic conductivity) of the oracle to evaluate the candidate.</li>
+              <li>I am working under <a href = "https://alexhernandezgarcia.github.io/"> Alex Hernandez-Garcia </a>, in <a href = "https://yoshuabengio.org/">Yoshua Bengio</a>'s group.</li></ul>
+
+- title: Software Engineering Intern, Bloomberg Pune, India
+  from: May 2022
+  to: July 2022
+  description: <ul><li>Designed a C++ infrastructure to provide clients with transparency on the corporate actions that have impacted their securities.</li>
+              <li>Integrated the service with database accessor and reporting framework APIs.</li>
+              <li>Designed the UI and monitoring dashboard on Humio for the service.</li></ul>
+
+- title: Junior Investigator, Tufts University
+  from: May 2021
+  to: September 2021
+  description: <ul><li>I worked with the Tufts Neutrino Group, under <a href="https://as.tufts.edu/physics/people/faculty/wongjirad"> Dr. Taritree Wongjirad </a> on the MicroBoone experiment.</li>
+              <li>I designed a generative network to simulate neutrino events conditioned on the particle’s momentum.</li>
+              <li>The network was based on a vector-quantized variational autoencoder and an auto-regressive model.</li>
               <li>I'm also a junior investigator at <a href = "https://iaifi.org/people.html"> IAIFI.</a> </li></ul>
 
-- title: ML Software Engineer, Space Applications Center, ISRO
+- title: Research Intern, Space Applications Center, ISRO
   from: May 2020
   to: Sep 2020
   description: <ul><li>I implemented Single Image Super Resolution Convolution Neural Networks to downsample Sea Surface Temperature (SST) fields of Bay of
