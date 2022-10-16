@@ -1,4 +1,4 @@
-<!-- ---
+---
 name: Multi-Relational Graph Neural Network for Darkweb Actor Classification
 tools: [Tensorflow, Keras, GCN]
 image: /assets/img/mrgcn0.jpg
@@ -56,4 +56,4 @@ We conducted an ablation study on the model
 
 <p class="text-center">
 {% include elements/button.html link="https://ieeexplore.ieee.org/document/9671446" text="View Paper" %}
-</p> -->
+</p>
