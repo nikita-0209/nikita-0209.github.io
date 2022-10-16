@@ -8,18 +8,18 @@ weight: 5
 # **Publications**
 <br>
 
->Nikita Saxena, Vinti Agarwal <br>
-**_"Learning to Detect: A Semi Supervised Multi-relational Graph Convolutional Network for Uncovering Key Actors on Hackforums."_** <br>
-IEEE Conference on Big Data, Cyberspace, 2021 {% include elements/button.html link="https://drive.google.com/file/d/1-cBqHxyJRVtevimRIAlHsKVC2dItbZF4/view" text="DOI" %}
+>Nikita Saxena, Vinti Agarwal
+**_"Learning to Detect: A Semi Supervised Multi-relational Graph Convolutional Network for Uncovering Key Actors on Hackforums."_** 
+IEEE Conference on Big Data, Cyberspace, 2021 <br>
+{% include elements/button.html link="https://drive.google.com/file/d/1-cBqHxyJRVtevimRIAlHsKVC2dItbZF4/view" text="DOI" %}
 
->Nikita Saxena <br>
-**_"Efficient Downscaling of Satellite Oceanographic Data With Convolutional Neural Networks."_** <br>
-28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, Cyberspace, 2020 {% include elements/button.html link="https://dl.acm.org/doi/10.1145/3397536.3429335" text="DOI" %}
+>Nikita Saxena
+**_"Efficient Downscaling of Satellite Oceanographic Data With Convolutional Neural Networks."_**
+28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, Cyberspace, 2020 <br>{% include elements/button.html link="https://dl.acm.org/doi/10.1145/3397536.3429335" text="DOI" %}
 
-<br>
->Gaurav Sharma, Tushar Goyal, Aditya Bhardwaj, Nikita Saxena, Jeet Yadav <br>
-**_"Implementation And Validation Of Murrell’s Version Kalman Filter For Attitude Estimation."_** <br>
-71st International Astronautical Congress (IAC), Cyberspace, 2020 {% include elements/button.html link="https://link.springer.com/article/10.1007/s42423-021-00078-1" text="DOI" %}
+>Gaurav Sharma, Tushar Goyal, Aditya Bhardwaj, Nikita Saxena, Jeet Yadav
+**_"Implementation And Validation Of Murrell’s Version Kalman Filter For Attitude Estimation."_**
+71st International Astronautical Congress (IAC), Cyberspace, 2020  <br> {% include elements/button.html link="https://link.springer.com/article/10.1007/s42423-021-00078-1" text="DOI" %}
 
 
 <br> <br>

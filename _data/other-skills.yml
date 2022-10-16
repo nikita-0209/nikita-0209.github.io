@@ -1,7 +1,7 @@
 - name: Linux
-  percentage: 15
+  percentage: 20
   color: info
 
 - name: Version Control GitHub
-  percentage: 15
+  percentage: 35
   color: success

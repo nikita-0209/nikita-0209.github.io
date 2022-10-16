@@ -1,5 +1,5 @@
 - name: Tensorflow
-  percentage: 25
+  percentage: 20
   color: info
 
 - name: PyTorch
