@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-interned-under-taritree-wongjirad-affiliated-to-tufts-university",
+          title: 'Interned under Taritree Wongjirad, affiliated to Tufts University.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
