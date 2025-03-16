@@ -4,4 +4,4 @@ date: 2022-05 15:59:00-0400
 inline: true
 related_posts: false
 ---
-Interned as a Software Engineer at Bloomberg LLP.
+Joined [Yoshua Bengio](https://yoshuabengio.org/)’s lab as an intern.
