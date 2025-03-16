@@ -5,20 +5,20 @@
     "image": "",
     "email": "nikitasaxena@google.com",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
+      "address": "",
+      "postalCode": "",
       "city": "San Francisco",
-      "countryCode": "US",
+      "countryCode": "USA",
       "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "nikitasaxena02",
+        "url": "https://twitter.com/nikitasaxena02"
       }
     ]
   },
