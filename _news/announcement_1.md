@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Interned under [Taritree Wongjirad](https://as.tufts.edu/physics/people/faculty/taritree-wongjirad), affiliated to [Tufts University](https://www.tufts.edu/).
