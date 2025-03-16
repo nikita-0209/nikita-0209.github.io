@@ -429,16 +429,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-interned-under-taritree-wongjirad-affiliated-to-tufts-university",
-          title: 'Interned under Taritree Wongjirad, affiliated to Tufts University.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/source_announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-interned-under-taritree-wongjirad-affiliated-to-tufts-university",
+          title: 'Interned under Taritree Wongjirad, affiliated to Tufts University.',
+          description: "",
+          section: "News",},{id: "news-appointed-as-young-investigator-to-iaifi",
+          title: 'Appointed as Young Investigator to IAIFI',
+          description: "",
+          section: "News",},{id: "news-interned-as-a-software-engineer-at-bloomberg-llp",
+          title: 'Interned as a Software Engineer at Bloomberg LLP.',
+          description: "",
+          section: "News",},{id: "news-joined-yoshua-bengio-s-lab-as-an-intern",
+          title: 'Joined Yoshua Bengio’s lab as an intern.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
