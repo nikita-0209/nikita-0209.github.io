@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 
-**Supervisor**: <a href = "https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile"> Dr. Vinti Agarwal</a>
+**Supervisor**: [Dr. Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile)
 
 
 Cybercriminals who interact extensively
