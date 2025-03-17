@@ -429,8 +429,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-yoshua-bengio-s-lab-as-an-intern",
           title: 'Joined Yoshua Bengio’s lab as an intern.',
           description: "",
-          section: "News",},{id: "news-graduated-from-bits-pilani-pilani-campus-with-a-bachelor-s-in-computer-science-and-a-master-s-in-physics-with-first-distinction",
-          title: 'Graduated from BITS Pilani, Pilani campus with a Bachelor’s in Computer Science and...',
+          section: "News",},{id: "news-graduated-from-bits-pilani-pilani-campus-with-b-e-in-computer-science-and-m-sc-in-physics",
+          title: 'Graduated from BITS Pilani, Pilani campus with B.E. in Computer Science and M.Sc....',
           description: "",
           section: "News",},{id: "news-joined-google-research-india-as-an-ai-resident",
           title: 'Joined Google Research India as an AI Resident.',
@@ -444,9 +444,9 @@ ninja.data = [{
           section: "News",},{id: "news-elected-to-be-a-part-of-the-wiml-board-of-directors",
           title: 'Elected to be a part of the WiML Board of Directors!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-multi-relational-graph-neural-network-for-darkweb-actor-classification",
+          title: 'Multi-Relational Graph Neural Network for Darkweb Actor Classification',
+          description: "Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -489,6 +489,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-multi-relational-graph-neural-network-for-darkweb-actor-classification",
+          title: 'Multi-Relational Graph Neural Network for Darkweb Actor Classification',
+          description: "Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mrgcn/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -509,13 +514,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/nikita-saxena", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
