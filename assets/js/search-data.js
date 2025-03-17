@@ -409,7 +409,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-joined-space-applications-center-isro-as-an-intern",
-          title: 'Joined Space Applications Center ISRO as an intern!',
+          title: 'Joined Space Applications Center ISRO as an intern.',
           description: "",
           section: "News",},{id: "news-joined-taritree-wongjirad-s-group-at-tufts-university",
           title: 'Joined Taritree Wongjirad’s group at Tufts University.',
@@ -421,7 +421,7 @@ ninja.data = [{
           title: 'Joined Prof Tilman Plehn’s group (University of Heidelberg) as a DAAD-WISE Scholar.',
           description: "",
           section: "News",},{id: "news-joined-dr-kauxian-ni-s-group-at-ucsd-as-an-intern",
-          title: 'Joined Dr Kauxian Ni’s group at UCSD as an intern!',
+          title: 'Joined Dr Kauxian Ni’s group at UCSD as an intern.',
           description: "",
           section: "News",},{id: "news-interned-as-a-software-engineer-at-bloomberg-llp",
           title: 'Interned as a Software Engineer at Bloomberg LLP.',
@@ -429,8 +429,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-yoshua-bengio-s-lab-as-an-intern",
           title: 'Joined Yoshua Bengio’s lab as an intern.',
           description: "",
-          section: "News",},{id: "news-graduated-from-bits-pilani-pilani-campus-with-first-distinction",
-          title: 'Graduated from BITS Pilani, Pilani campus with first distinction.',
+          section: "News",},{id: "news-graduated-from-bits-pilani-pilani-campus-with-a-bachelor-s-in-computer-science-and-a-master-s-in-physics-with-first-distinction",
+          title: 'Graduated from BITS Pilani, Pilani campus with a Bachelor’s in Computer Science and...',
           description: "",
           section: "News",},{id: "news-joined-google-research-india-as-an-ai-resident",
           title: 'Joined Google Research India as an AI Resident.',
