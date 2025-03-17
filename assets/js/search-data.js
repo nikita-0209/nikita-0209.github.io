@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Joined Google Deepmind (San Francisco) as a Research Engineer.',
           description: "",
           section: "News",},{id: "news-organized-the-women-in-machine-learning-wiml-workshop-at-neurips-2024",
-          title: 'Organized the Women in Machine Learning (WiML) workshop at  NeurIPS 2024.',
+          title: 'Organized the Women in Machine Learning (WiML) workshop at NeurIPS 2024.',
           description: "",
           section: "News",},{id: "news-elected-to-be-a-part-of-the-wiml-board-of-directors",
           title: 'Elected to be a part of the WiML Board of Directors!',
@@ -529,6 +529,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=DkroIXMAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/nikitasaxena02", "_blank");
         },
       },{
       id: 'light-theme',
