@@ -489,6 +489,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-quark-gluon-classification-using-contrastive-learning-representations",
+          title: 'Quark Gluon Classification using Contrastive Learning Representations',
+          description: "Self-supervised transformer to generate embeddings for particle jets and then classify them using non-linear models.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lhc/";
             },},{id: "projects-multi-relational-graph-neural-network-for-darkweb-actor-classification",
           title: 'Multi-Relational Graph Neural Network for Darkweb Actor Classification',
           description: "Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.",
@@ -514,6 +519,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/nikita-saxena", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
