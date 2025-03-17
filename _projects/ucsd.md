@@ -12,7 +12,7 @@ related_publications: false
 
 Fascinated by dark matter? Well, aren't we all? And I am thrilled that I got the opportunity to directly contribute to its research!
 
-Located in Italy, the [XENON Experiment](https://science.purdue.edu/xenon1t) was established to study potential dark matter candidates. Broadly, it is just a cylinder full of liquid Xenon with vacuum tubes (to detect photons) aligned in a hexagonal arrangement at the top and the bottom faces.
+Located in Italy, the [XENON Experiment](https://xenonexperiment.org/) was established to study potential dark matter candidates. Broadly, it is just a cylinder full of liquid Xenon with vacuum tubes (to detect photons) aligned in a hexagonal arrangement at the top and the bottom faces.
 
 {% include figure.liquid loading="eager" path="assets/img/ucsd.jpg" title="The XENON Detector" class="img-fluid rounded z-depth-1" %}
 
