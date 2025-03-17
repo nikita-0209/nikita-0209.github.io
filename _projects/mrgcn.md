@@ -8,10 +8,10 @@ category: work
 related_publications: true
 ---
 
-# Multi-Relational Graph Neural Network for Darkweb Actor Classification
-##### Supervisor: <a href = "https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile"> Dr. Vinti Agarwal</a>
+```html
+<b>Supervisor</b>: <a href = "https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile"> Dr. Vinti Agarwal</a>
+```
 
-<br>
 Cybercriminals who interact extensively
 on underground forums, often, exchange illegal commodities and indulge in discussions on unwarranted
 topics. To facilitate the disruption of these highly
@@ -29,9 +29,10 @@ actors.
   The proposed framework jointly embeds the users' and multi relational information to learn the nodes embeddings in the graph. 
   We demonstrate the effectiveness of the proposed model on a neo-nazi underground forum, IronMarch.
 
-<br>
 
 ### Technical Details
+
+```html
 <ul>
 <li>Language: Python</li>
 <li>Semi-Supervised Learning </li>
@@ -40,24 +41,8 @@ actors.
 <li>Model: Graph Convolutional Layer</li>
 <li>Loss Function: Mean Squared Error</li>
 </ul>
-
-<br>
+```
 
 ### Results
-We conducted an ablation study on the model
-  parameters to generate the best results and achieved
-  a classification accuracy of 82% which validates the
-  proposed hypothesis for score computation and class
-  labelling. To establish the robustness of our model, we
-  compare its performance against state-of-art models.
-  Though we used an underground forum as a showcase,
-  the proposed model can be implemented to identify
-  influential users' on other social media platforms.
 
-<!-- <p class="text-center">
-{% include elements/button.html link="https://github.com/nikita-0209/kad_mrgcn_public" text="Code" %}
-</p>
-
-<p class="text-center">
-{% include elements/button.html link="https://ieeexplore.ieee.org/document/9671446" text="Paper" %}
-</p> -->
+We conducted an ablation study on the model parameters to generate the best results and achieved a classification accuracy of 82% which validates the proposed hypothesis for score computation and class labelling. To establish the robustness of our model, we compare its performance against state-of-art models. Though we used an underground forum as a showcase, the proposed model can be implemented to identify influential users' on other social media platforms.
