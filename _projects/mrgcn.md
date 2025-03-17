@@ -20,7 +20,7 @@ multi-relational graph convolutional network approach
 to analyse the underground forum and identify key
 actors.
 
-{% include elements/figure.html image="/assets/img/mrgcn.png" caption="Overall architecture of KAD-mRGCN framework" %}
+{% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Overall architecture of KAD-mRGCN framework" class="img-fluid rounded z-depth-1" %}
 
   We demonstrate the effectiveness of the proposed model on a neo-nazi underground forum, IronMarch. </p>
   We first modeled the hackforum into a homogeneous graph of users, where the multiple edges between users are captured based on their involvement in private conversations, group discussions and other miscellaneous activities. 
@@ -54,10 +54,10 @@ We conducted an ablation study on the model
   the proposed model can be implemented to identify
   influential users' on other social media platforms.
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/nikita-0209/kad_mrgcn_public" text="View Code" %}
+<!-- <p class="text-center">
+{% include elements/button.html link="https://github.com/nikita-0209/kad_mrgcn_public" text="Code" %}
 </p>
 
 <p class="text-center">
-{% include elements/button.html link="https://ieeexplore.ieee.org/document/9671446" text="View Paper" %}
-</p>
+{% include elements/button.html link="https://ieeexplore.ieee.org/document/9671446" text="Paper" %}
+</p> -->
