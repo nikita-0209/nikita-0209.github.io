@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Multi-Relational Graph Neural Network for Darkweb Actor Classification
+description: Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.
 img: assets/img/12.jpg
 importance: 1
 category: work
