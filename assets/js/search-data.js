@@ -499,6 +499,11 @@ ninja.data = [{
           description: "Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mrgcn/";
+            },},{id: "projects-graph-neural-network-for-the-xenon-detector",
+          title: 'Graph Neural Network for the XENON Detector',
+          description: "Reconstruct the position of collisions happening in the XENON detector, an underground experiment for studying potential dark matter candidates.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ucsd/";
             },},{
         id: 'social-email',
         title: 'email',
