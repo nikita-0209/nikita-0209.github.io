@@ -26,7 +26,6 @@ We evaluate the effectiveness of the proposed model on the neo-Nazi underground 
 
 To obtain ground truth labels for training, we introduce a hypothesis to compute user scores based on the quality and quantity of their involvement in the forum. The proposed framework jointly embeds user information and multi-relational data to learn node embeddings within the graph. We demonstrate the effectiveness of the model through empirical evaluation on IronMarch.
 
-
 ### Technical Details
 
 * Semi-Supervised Learning
