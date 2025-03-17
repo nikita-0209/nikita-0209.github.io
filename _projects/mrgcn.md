@@ -5,12 +5,11 @@ description: Semi-supervised deep learning framework to detect key actors by cla
 img: assets/img/mrgcn0.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 
 **Supervisor**: [Dr. Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vintiagarwal/profile)
-
 
 Cybercriminals who interact extensively
 on underground forums, often, exchange illegal commodities and indulge in discussions on unwarranted

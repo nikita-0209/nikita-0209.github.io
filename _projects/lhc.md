@@ -5,7 +5,7 @@ description: Self-supervised transformer to generate embeddings for particle jet
 img: assets/img/mrgcn0.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 **Supervisor**: [Dr. Tilman Plehn](https://scholar.google.com/citations?user=r3zfvh0AAAAJ&hl=en)
