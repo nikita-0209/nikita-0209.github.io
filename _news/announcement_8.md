@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organized the [Women in Machine Learning (WiML)](https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0) workshop at  NeurIPS 2024.
+Organized the [Women in Machine Learning (WiML)](https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0) workshop at NeurIPS 2024.
