@@ -18,4 +18,4 @@ A GNN model was designed and implemented using the Spektral library, built upon 
 
 The resulting GNN model, trained by self-supervised techniques, comprised approximately 200,000 trainable parameters, demonstrated significant performance improvements in position reconstruction accuracy. It achieved a Root Mean Squared Error (RMSE) of 1.936 cm. Notably, this performance represents a 12% improvement over a benchmark Convolutional Neural Network (CNN) with significantly more parameters (5 million) and a substantial 67% improvement compared to the established position reconstruction software currently utilized by the XENON experiment, known as straxen. These results highlight the efficacy of GNNs in leveraging the specific geometric structure of the XENON detector for enhanced position reconstruction capabilities.
 
-<!-- [View Presentation](https://docs.google.com/presentation/d/1GxSzdwGt5Zl98TtHSi_1zIr8pTvJ7l0HLCpeG3pLFU4/present?slide=id.g35f391192_00) -->
+[Slide Deck](https://docs.google.com/presentation/d/1GxSzdwGt5Zl98TtHSi_1zIr8pTvJ7l0HLCpeG3pLFU4/present?slide=id.g35f391192_00)
