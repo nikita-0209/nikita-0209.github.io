@@ -36,18 +36,24 @@
       "startDate": "2023-08",
       "endDate": "2024-09",
       "summary": "AI for Agriculture: Prototyped a super-resolution pipeline (> 8x upsampling) that inputs a timeseries of imagery at 10 meters (m) resolution and performs segmentation at 1m resolution."
+    },
+    {
+      "name": "Mila-Quebec AI Institute",
+      "position": "Research Assistant",
+      "startDate": "2023-05",
+      "endDate": "2022-09",
+      "summary": "AI for Agriculture: Prototyped a super-resolution pipeline (> 8x upsampling) that inputs a timeseries of imagery at 10 meters (m) resolution and performs segmentation at 1m resolution."
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Women in Machine Learning",
+      "location": "USA",
+      "position": "Communication Chair",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "startDate": "2024-08",
+      "endDate": "2024-12",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -64,11 +70,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Globalink Research Internship",
+      "date": "2022-10",
+      "awarder": "MITACS",
+      "url": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+      "summary": "Mitacs Globalink Research Internship is a competitive initiative allowing top-ranked applicants to participate in a 12-week research internship under the supervision of Canadian academic institution faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences."
+    },
+    {
+      "title": "DAAD-WISE",
+      "date": "2021-05",
+      "awarder": "DAAD India: German Academic Exchnage Service",
+      "url": "https://www.daad.in/en/2023/09/20/applications-invited-working-internships-in-science-and-engineering-wise-2023-24/",
+      "summary": "Awards top-ranked students from select Indian institutions pursuing a degree in the fields of science and engineering to do a research internship at a publicly-funded German higher education institution or a research institute."
+    },
+    {
+      "title": "Charpak Lab",
+      "date": "2021-04",
+      "awarder": "Campus France",
+      "url": "https://www.inde.campusfrance.org/france-excellence-charpak-summer-training-scholarship",
+      "summary": "Awards academically excellent students from select Indian institutions to partake in a research internship in France."
     }
   ],
   "references": [
@@ -90,20 +110,28 @@
   ],
   "projects": [
     {
+      "name": "Identifying Key Actors in Underground Forums using Multi-Relational Graph Convolutional Networks",
+      "summary": "Proposed a deep learning GCN approach combining multi-relational user interactions and BERT-encoded text to identify influential actors in underground forums, achieving 82% accuracy on the open-source Iron March dataset.",
+      "highlights": ["Self-Supervised Learning", "GNN"],
+      "startDate": "2021-08",
+      "endDate": "2021-12",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9671446"
+    },
+    {
       "name": "Contrastive Learning for Quark-Gluon Jet Classification",
       "summary": "Self-supervised transformer to generate embeddings for particle jets and then classify them using non-linear models.",
       "highlights": ["Self-Supervised Learning", "AI for Science"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2021-08",
+      "endDate": "2021-12",
       "url": "https://example.com"
     },
     {
       "name": "Graph Neural Network for Dark Matter Particle Position Reconstruction",
       "summary": "Reconstruct the position of collisions happening in the XENON detector, an underground experiment for studying potential dark matter candidates.",
       "highlights": ["Self-Supervised Learning", "AI for Science", "GNN"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2020-10",
+      "endDate": "2021-02",
       "url": "https://example.com"
-    }
+    },
   ]
 }
