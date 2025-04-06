@@ -26,9 +26,16 @@
     {
       "name": "Google Deepmind",
       "position": "Research Engineer",
-      "startDate": "2024-10-11",
-      "endDate": "1955-01-01",
+      "startDate": "October 2024",
+      "endDate": "",
       "summary": "Improving Gemini's capability to understand and generate multimodal (image and text) content."
+    },
+    {
+      "name": "Google Research",
+      "position": "AI Resident",
+      "startDate": "2023-08-07",
+      "endDate": "2024-09-30",
+      "summary": "AI for Agriculture: Prototyped a super-resolution pipeline (> 8x upsampling) that inputs a timeseries of imagery at 10 meters (m) resolution and performs segmentation at 1m resolution."
     }
   ],
   "volunteer": [
