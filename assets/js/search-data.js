@@ -28,7 +28,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_May_2024.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -494,11 +494,6 @@ ninja.data = [{
           description: "Self-supervised transformer to generate embeddings for particle jets and then classify them using non-linear models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lhc/";
-            },},{id: "projects-multi-relational-graph-neural-network-for-darkweb-actor-classification",
-          title: 'Multi-Relational Graph Neural Network for Darkweb Actor Classification',
-          description: "Semi-supervised deep learning framework to detect key actors by classifying underground forum users into different groups based on their activity patterns.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mrgcn/";
             },},{id: "projects-graph-neural-network-for-the-xenon-detector",
           title: 'Graph Neural Network for the XENON Detector',
           description: "Reconstruct the position of collisions happening in the XENON detector, an underground experiment for studying potential dark matter candidates.",
