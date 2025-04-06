@@ -489,8 +489,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-quark-gluon-classification-using-contrastive-learning-representations",
-          title: 'Quark Gluon Classification using Contrastive Learning Representations',
+            },},{id: "projects-contrastive-learning-for-quark-gluon-jet-classification",
+          title: 'Contrastive Learning for Quark-Gluon Jet Classification.',
           description: "Self-supervised transformer to generate embeddings for particle jets and then classify them using non-linear models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lhc/";
