@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-**Supervisor**: [Dr. Tilman Plehn](https://scholar.google.com/citations?user=r3zfvh0AAAAJ&hl=en)
+**Supervisor**: [Dr. Tilman Plehn](https://scholar.google.com/citations?user=r3zfvh0AAAAJ&hl=en), [Dr. Barry Dillion](https://scholar.google.com/citations?user=HeQ0Xs0AAAAJ&hl=en)
 
 <!-- ---
 name: 
@@ -20,24 +20,10 @@ description: I trained a transformer-encoder network with contrastive loss to ma
 ##### Supervisor: <a href = "https://www.thphys.uni-heidelberg.de/~plehn/"> Dr. Tilman Plehn </a>
 
 <br> -->
-Our building blocks are atomic nuclei, which in turn comprise protons and neutrons, which are made up of quarks and gluons. This project aims to distinguish the quarks (signal) from the gluons (background).
+We adopt the JetCLR framework, a self-supervised contrastive learning approach, to the task of quark-gluon jet tagging. Initially tested on top-tagging, JetCLR is here applied to a quark-gluon dataset that includes particle-ID (PID) information alongside standard kinematic data $$(pT, η, φ)$$. The primary goal is to evaluate the performance of JetCLR-generated representations for linear quark/gluon discrimination. This involves comparing these representations against established alternatives, specifically Energy Flow Polynomials (EFPs), using various linear classifier tests (LCTs). The study investigates different JetCLR configurations, including variations with and without PID information, and explores different methods for encoding PIDs, such as single float values (PFN-ID, PFN-Ex, JetCLR-ID) and one-hot encoding.
 
-{% include figure.liquid loading="eager" path="assets/img/lhc.jpg" title="Large Hadron Collider" %}
-
-When a collision takes place in the Large Hadron Collider, constituent particles get scattered. The set of scattered particles are called jets. Snapshots of jets are called jet images and have been conventionally used to classify between quark and gluon initiated jets.
-In this research work, we adopt an alternative technique. We train a transformer with contrastive loss to map particle jets to a representation space. Spherical position, particle type and transverse momentum  of the constituent particles are taken into consideration while obtaining the representation of jets.
-
-These linear representations are fed into machine learning models for binary classification tasks (to distinguish between quarks and gluons.)
-
-### Technical Details
-
-* Semi-Supervised Learning
-* BERT for Language Modeling
-* **Framework**: Pytorch
-* **Model**:  Logistic Regression, Linear Discriminant Analysis, Random Forest, XGBoost
-
-### Results
-We've obtained an AUC of 0.8 so far. Research work is still ongoing.
+Initial results indicate that JetCLR representations, particularly when incorporating one-hot encoded PIDs show promising performance, achieving comparable or slightly better results than standard EFPs depending on the linear classfier used (e.g., outperforming EFPs with BCE loss but underperforming with Linear Discriminant Analysis). The quark-gluon dataset was generated using Pythia 8.226 for pp collisions at 14 TeV, focusing on Z+jet events within a pT range of 500-550 GeV. Further investigations include optimizing hyperparameters like the contrastive loss temperature and assessing the impact of different data augmentations and potential detector effects on the classification performance.
 
 
 [View Code](https://github.com/nikita-0209/ml_quark_gluon)
+[Report](https://github.com/nikita-0209/ml_quark_gluon)
