@@ -2,7 +2,7 @@
 layout: page
 title: Contrastive Learning for Quark-Gluon Jet Classification.
 description: Self-supervised transformer to generate embeddings for particle jets and then classify them using non-linear models.
-img: assets/img/mrgcn0.jpg
+img: assets/img/lhc.jpg
 importance: 2
 category: work
 related_publications: false
