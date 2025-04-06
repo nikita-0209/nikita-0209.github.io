@@ -42,7 +42,7 @@
       "position": "Research Assistant",
       "startDate": "2023-05",
       "endDate": "2022-09",
-      "summary": "AI for Agriculture: Prototyped a super-resolution pipeline (> 8x upsampling) that inputs a timeseries of imagery at 10 meters (m) resolution and performs segmentation at 1m resolution."
+      "summary": "Implemented GFlowNets for discovery of peptides and molecules."
     }
   ],
   "volunteer": [
@@ -50,10 +50,10 @@
       "organization": "Women in Machine Learning",
       "location": "USA",
       "position": "Communication Chair",
-      "url": "https://example.com",
+      "url": "https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0",
       "startDate": "2024-08",
       "endDate": "2024-12",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "summary": "Organized WiML workshop at NeurIPS 2024 with a totla of 1000+ attendees, and supporting 500+ financially..",
     }
   ],
   "education": [
@@ -123,7 +123,7 @@
       "highlights": ["Self-Supervised Learning", "AI for Science"],
       "startDate": "2021-08",
       "endDate": "2021-12",
-      "url": "https://example.com"
+      "url": "/_projects/lhc.md"
     },
     {
       "name": "Graph Neural Network for Dark Matter Particle Position Reconstruction",
@@ -132,6 +132,6 @@
       "startDate": "2020-10",
       "endDate": "2021-02",
       "url": "https://example.com"
-    },
+    }
   ]
 }
