@@ -24,13 +24,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "Google Deepmind",
+      "position": "Research Engineer",
+      "startDate": "2024-10-11",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Improving Gemini's capability to understand and generate multimodal (image and text) content.",
     }
   ],
   "volunteer": [
