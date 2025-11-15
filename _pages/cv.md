@@ -1,7 +1,7 @@
 ---
 layout: cv
-# permalink: assets/pdf/CV_May_2024.pdf
-permalink: /cv/
+permalink: assets/pdf/Nikita_Resume_2025.pdf
+# permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
