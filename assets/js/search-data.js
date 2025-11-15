@@ -37,21 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-image-galleries",
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -408,10 +401,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-space-applications-center-isro-as-an-intern",
-          title: 'Joined Space Applications Center ISRO as an intern.',
-          description: "",
-          section: "News",},{id: "news-joined-taritree-wongjirad-s-group-at-tufts-university",
+            },},{id: "news-joined-taritree-wongjirad-s-group-at-tufts-university",
           title: 'Joined Taritree Wongjirad’s group at Tufts University.',
           description: "",
           section: "News",},{id: "news-appointed-as-a-young-investigator-to-iaifi",
@@ -419,9 +409,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-prof-tilman-plehn-s-group-university-of-heidelberg-as-a-daad-wise-scholar",
           title: 'Joined Prof Tilman Plehn’s group (University of Heidelberg) as a DAAD-WISE Scholar.',
-          description: "",
-          section: "News",},{id: "news-joined-dr-kauxian-ni-s-group-at-ucsd-as-an-intern",
-          title: 'Joined Dr Kauxian Ni’s group at UCSD as an intern.',
           description: "",
           section: "News",},{id: "news-interned-as-a-software-engineer-at-bloomberg-llp",
           title: 'Interned as a Software Engineer at Bloomberg LLP.',
@@ -432,8 +419,8 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-from-bits-pilani-pilani-campus-with-b-e-in-computer-science-and-m-sc-in-physics",
           title: 'Graduated from BITS Pilani, Pilani campus with B.E. in Computer Science and M.Sc....',
           description: "",
-          section: "News",},{id: "news-joined-google-research-india-as-an-ai-resident",
-          title: 'Joined Google Research India as an AI Resident.',
+          section: "News",},{id: "news-joined-google-research-india-as-a-predoctoral-researcher",
+          title: 'Joined Google Research India as a Predoctoral Researcher.',
           description: "",
           section: "News",},{id: "news-joined-google-deepmind-as-a-research-engineer",
           title: 'Joined Google Deepmind as a Research Engineer.',
@@ -443,6 +430,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-elected-to-be-a-part-of-the-wiml-board-of-directors",
           title: 'Elected to be a part of the WiML Board of Directors!',
+          description: "",
+          section: "News",},{id: "news-visited-yessenov-data-lab-ydl-summer-school-as-a-lecturer",
+          title: 'Visited Yessenov Data Lab (YDL) Summer School as a lecturer.',
+          description: "",
+          section: "News",},{id: "news-organized-inaugral-wiml-event-at-colm-25",
+          title: 'Organized inaugral WiML event at CoLM’25.',
           description: "",
           section: "News",},{id: "projects-multi-relational-graph-neural-network-for-darkweb-actor-classification",
           title: 'Multi-Relational Graph Neural Network for Darkweb Actor Classification',
