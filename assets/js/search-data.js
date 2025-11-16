@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/Nikita_Resume_2025.pdf";
           },
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
