@@ -387,17 +387,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-taritree-wongjirad-s-group-at-tufts-university",
-          title: 'Joined Taritree Wongjirad’s group at Tufts University.',
-          description: "",
-          section: "News",},{id: "news-appointed-as-a-young-investigator-to-iaifi",
+            },},{id: "news-appointed-as-a-young-investigator-to-iaifi",
           title: 'Appointed as a Young Investigator to IAIFI.',
           description: "",
           section: "News",},{id: "news-joined-prof-tilman-plehn-s-group-university-of-heidelberg-as-a-daad-wise-scholar",
           title: 'Joined Prof Tilman Plehn’s group (University of Heidelberg) as a DAAD-WISE Scholar.',
-          description: "",
-          section: "News",},{id: "news-interned-as-a-software-engineer-at-bloomberg-llp",
-          title: 'Interned as a Software Engineer at Bloomberg LLP.',
           description: "",
           section: "News",},{id: "news-joined-yoshua-bengio-s-lab-as-an-intern",
           title: 'Joined Yoshua Bengio’s lab as an intern.',
